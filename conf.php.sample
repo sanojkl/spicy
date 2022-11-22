@@ -1,0 +1,8 @@
+<?php
+//copy this file to config.php and set database settings.
+//create the table with
+// create table userdata( secret varchar(32) primary key, name varchar(32), essen_1 int, essen_2 int, essen_3 int, essen_4 int, essen_5 int, essen_6 int, essen_7 int, essen_8 int, essen_9 int, essen_10 int, essen_11 int, essen_12 int, essen_13 int, essen_14 int, essen_15 int, essen_16 int );
+$servername = "localhost";
+$username = "spicy";
+$password = "EnterPasswordHere1!";
+$dbname = "spicy";
